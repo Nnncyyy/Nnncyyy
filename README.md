@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Status-Learning_%26_Building_%F0%9F%9A%80-4B0082?style=for-the-badge" />
 </p>
  -->
----
+
 🎓 Studying Artificial Intelligence Engineering at ESCOM - IPN.
 ### 💫 About Me
 
