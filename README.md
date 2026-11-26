@@ -14,6 +14,7 @@
  -->
 
 🎓 Studying Artificial Intelligence Engineering at ESCOM - IPN.
+<!--
 ### 💫 About Me
 
 ```yaml
@@ -26,5 +27,5 @@ Nancy_Ashanti:
     - "Digital Illustration & Pattern Design 🎨"
   Current_focus: "Conversational NLP, Deep Networks, Deep Learning Architectures, Neuroscience and more"
   Hobbies: "Petting cats 🐱, read 📖, exercise 👟, listening to BTS 🎧"
-
+ -->
   
